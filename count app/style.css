@@ -1,0 +1,23 @@
+.container {
+  align-items: center;
+  margin: 180px 0px 0px 600px;
+   
+}
+.block1 {
+  font-size: 50px;
+  margin-left:20px ;
+}
+
+.block2 {
+  font-size: 70px;
+  margin:60px 0px  60px  120px ;
+}
+#decrease {
+  font-size: 20px;
+}
+#reset {
+  font-size: 20px;
+}
+#increase {
+  font-size: 20px;
+}
